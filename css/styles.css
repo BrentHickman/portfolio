@@ -1,0 +1,18 @@
+h1,h2,h3 {
+  color: lightgreen;
+  background-color: gainsboro;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  color: cadetblue;
+}
+
+li {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  color: coral;
+}
