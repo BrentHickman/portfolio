@@ -24,12 +24,21 @@ li {
   margin: 0px 10px 0px 10px;
 }
 
-img {
-  display: block;
-  width: 30%;
+.artbanner {
+  width: 20%;
   margin-left: auto;
   margin-right: auto;
 
+}
+
+.artbannerLeft {
+  width: 20%;
+  float: left;
+}
+
+.artbannerRight {
+  width: 20%;
+  float:right
 }
 
 .bgimg {
