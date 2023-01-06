@@ -28,3 +28,27 @@ img {
   margin-right: auto;
 
 }
+
+.bgimg {
+  position: relative;
+}
+
+.bgimg:before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.3;
+  background-image: url(/img/IMG_0273.jpeg);
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.content {
+  position: relative;
+}
