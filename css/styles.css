@@ -8,10 +8,6 @@ h1,h2,h3,h4 {
 }
 
 p {
-  display:table-column;
-  max-width: 10%;
-  max-height: 10%;
-  float:left;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: large;
   color: cadetblue;
@@ -65,3 +61,12 @@ img {
   margin-bottom: auto;
   margin-top: 2%;
 }
+
+.about {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 30px;
+  height: auto;
+}
+
