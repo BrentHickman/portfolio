@@ -13,6 +13,7 @@ p {
   color:rgb(35, 40, 45);
   margin-bottom: -10px;
   text-align: center;
+  padding-bottom: 30px;
 }
 
 li {
@@ -21,7 +22,7 @@ li {
   color: rgb(123, 71, 52);
   text-align: center;
   list-style: none;
-  margin: 0px 10px 0px 10px;
+  margin: 10px 10px 0px 10px;
 }
 
 .artbanner {
@@ -75,7 +76,6 @@ li {
   width: 60%;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 30px;
   padding-left: 20px;
   padding-right: 20px;
   height: auto;
@@ -89,7 +89,7 @@ li {
   font-size: medium;
   color: rgb(123, 71, 52);
   text-align: center;
-  margin: 0px 10px 0px 10px;
+  margin: 10px 10px 0px 10px;
 }
 
 a {
