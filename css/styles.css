@@ -76,7 +76,11 @@ li {
   margin-left: auto;
   margin-right: auto;
   padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
   height: auto;
+  border: solid 2px rgb(123, 71, 52);
+  border-radius: 10px;
 }
 
 .projectDesc {
